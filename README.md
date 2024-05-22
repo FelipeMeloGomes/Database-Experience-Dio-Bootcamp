@@ -1,6 +1,6 @@
-# Database Experience - Bootcamp
+# Database Experience - Formação de Banco de Dados Relacional
 
-Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que procuram uma experiência rápida em Ciência de Dados para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL. No Database Experience, você passará por 54 horas de imersão, com experiências educacionais e mentorias exclusivas sobre modelagem de dados, SGBD, EER, arquitetura, queries, entre outras.
+Este é o primeiro Formação de Banco de Dados Relacional sobre Banco de Dados da DIO para profissionais que procuram uma experiência rápida em Ciência de Dados para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL. No Database Experience, você passará por 54 horas de imersão, com experiências educacionais e mentorias exclusivas sobre modelagem de dados, SGBD, EER, arquitetura, queries, entre outras.
 
 ## 📚 Módulos e Cursos
 
